@@ -1,0 +1,9 @@
+{
+  "host":"",
+  "grpcPort":8512,
+  "restfulPort":8513,
+  "modelName":"chinese_roberta_wwm_ext",
+  "signatureName":"predict",
+  "outputName":"result",
+  "dimSize":50
+}

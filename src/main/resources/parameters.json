@@ -1,0 +1,11 @@
+{
+  "do_lower_case": true,
+  "vocab_file": "src/main/resources/vocab.txt",
+  "random_seed": 10,
+  "max_seq_length": 50,
+  "dupe_factor": 1,
+  "short_seq_prob": 1,
+  "masked_lm_prob": 1,
+  "max_predictions_per_seq": 1,
+  "output_file": ""
+}
